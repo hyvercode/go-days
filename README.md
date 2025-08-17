@@ -1,7 +1,7 @@
 ## Rencana Belajar Go 30 Hari (2 Jam per Hari)
 ### Minggu 1: Dasar-dasar Go
 
-    Hari 1: Pengenalan Go & Instalasi
+    Hari 1: Pengenalan Go & Instalasi  ✅
         Materi: Sejarah Go, keunggulan, instalasi Go, struktur folder, hello world.
         Tugas: Install Go, buat program hello world.
 
